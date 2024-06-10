@@ -16,7 +16,7 @@ public class ventana extends JFrame{
     public  JPanel panel;
             
     public ventana(){
-        this.setSize(500, 500);//establecemos el tamaño de la ventana
+        this.setSize(500, 500);// establecemos el tamaño de la ventana
              setTitle("Menu del juego");
              setLocation(100, 200);//establecemos la posicion de la ventana
              setBounds(100, 200, 500, 500);
